@@ -1,0 +1,8 @@
+[16-Mar-2017 21:53:35 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error Processing Request' in /home/btcpcrfk/phpdata.btcpolitic.top/googlemaps/api/v1/upload.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/btcpcrfk/phpdata.btcpolitic.top/googlemaps/api/v1/upload.php on line 38
+[16-Mar-2017 21:56:20 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/btcpcrfk/phpdata.btcpolitic.top/googlemaps/api/v1/upload.php on line 50
+[16-Mar-2017 21:58:11 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/btcpcrfk/phpdata.btcpolitic.top/googlemaps/api/v1/upload.php on line 47
+[16-Mar-2017 22:06:49 America/New_York] PHP Warning:  move_uploaded_file(../../img/blue-texto.png): failed to open stream: No such file or directory in /home/btcpcrfk/phpdata.btcpolitic.top/googlemaps/api/v1/upload.php on line 18
+[16-Mar-2017 22:06:49 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHgMNox' to '../../img/blue-texto.png' in /home/btcpcrfk/phpdata.btcpolitic.top/googlemaps/api/v1/upload.php on line 18
